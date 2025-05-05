@@ -1,7 +1,7 @@
 import React, {useState } from 'react';
 import { Route, Routes } from 'react-router-dom'
 import Addfodd from './pages/AddFood/Addfood'
-import ListFood from './pages/ListFood/LIstFood'
+import ListFood from './pages/ListFood/ListFood'
 import Orders from './pages/Orders/Orders'
 import Menubar from './components/menubar/menubar'
 import Sidebar from './components/sidebar/sidebar'
