@@ -4,7 +4,7 @@ import Addfodd from './pages/AddFood/Addfood'
 import ListFood from './pages/ListFood/ListFood'
 import Orders from './pages/Orders/Orders'
 import Menubar from './components/menubar/Menubar'
-import Sidebar from './components/sidebar/sidebar'
+import Sidebar from './components/sidebar/Sidebar'
 import { ToastContainer } from 'react-toastify';
 
 
