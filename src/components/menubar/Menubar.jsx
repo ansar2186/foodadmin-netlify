@@ -1,6 +1,6 @@
 import React from 'react';
 
-const menubar = ({toggleSidebar}) => {
+const Menubar = ({toggleSidebar}) => {
  return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light border-bottom">
         <div className="container-fluid">
@@ -13,4 +13,4 @@ const menubar = ({toggleSidebar}) => {
   )
 }
 
-export default menubar
+export default Menubar

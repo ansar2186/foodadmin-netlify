@@ -3,7 +3,7 @@ import { Route, Routes } from 'react-router-dom'
 import Addfodd from './pages/AddFood/Addfood'
 import ListFood from './pages/ListFood/ListFood'
 import Orders from './pages/Orders/Orders'
-import Menubar from './components/menubar/menubar'
+import Menubar from './components/menubar/Menubar'
 import Sidebar from './components/sidebar/sidebar'
 import { ToastContainer } from 'react-toastify';
 
